@@ -35,7 +35,7 @@ public class TrainingDataService {
     @PostConstruct
     public void init() {
         LOGGER.info("Starting application");
-//        generateTrainingData();
+        generateTrainingData();
     }
 
     @Transactional
@@ -44,24 +44,28 @@ public class TrainingDataService {
 
         for(Match match : matches) {
             List<HeroPick> heroPickList = heroPickRepository.findByMatch_MatchId(match.getMatchId());
-            List<String> radiantTeam = new ArrayList<>();
-            List<String> direTeam = new ArrayList<>();
+            List<Integer> radiantTeam = new ArrayList<>();
+            List<Integer> direTeam = new ArrayList<>();
 
             for(HeroPick heroPick : heroPickList) {
                 if(heroPick.getIsRadiant()) {
-                    radiantTeam.add(heroPick.getHero().getLocalizedName());
+                    radiantTeam.add(heroPick.getHero().getHeroId());
                 } else {
-                    direTeam.add(heroPick.getHero().getLocalizedName());
+                    direTeam.add(heroPick.getHero().getHeroId());
                 }
             }
 
-            if(radiantTeam.size() == 5 && direTeam.size() == 5) {
+            Integer targetHero = radiantTeam.get(4);
+            radiantTeam.remove(4);
+
+            if(radiantTeam.size() == 4 && direTeam.size() == 5) {
                 TrainingData trainingData = new TrainingData();
                 trainingData.setDireTeam(direTeam);
                 trainingData.setRadiantTeam(radiantTeam);
                 trainingData.setMatchId(match.getMatchId());
                 trainingData.setAverageRankTier(match.getAverageRankTier());
                 trainingData.setRadiantWin(match.getRadiantWin());
+                trainingData.setTargetHero(targetHero);
 
                 trainingDataRepository.save(trainingData);
             }

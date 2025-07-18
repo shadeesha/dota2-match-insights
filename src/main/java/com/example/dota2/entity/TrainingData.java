@@ -22,14 +22,17 @@ public class TrainingData {
     private Long matchId;
 
     @Column(name = "radiant_team")
-    private List<String> radiantTeam;
+    private List<Integer> radiantTeam;
 
     @Column(name = "dire_team")
-    private List<String> direTeam;
+    private List<Integer> direTeam;
 
     @Column(name = "radiant_win", nullable = false)
     private boolean radiantWin;
 
     @Column(name = "average_rank_tier")
     private Integer averageRankTier;
+
+    @Column(name = "target_hero")
+    private Integer targetHero;
 }
