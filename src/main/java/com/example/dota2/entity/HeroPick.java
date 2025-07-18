@@ -1,15 +1,11 @@
 package com.example.dota2.entity;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
 @Table(name = "hero_pick")
-@NoArgsConstructor
-@AllArgsConstructor
 @Getter
 @Setter
 public class HeroPick {
@@ -24,8 +20,6 @@ public class HeroPick {
 
     private Integer rankTier;
 
-    private Integer pickOrder;
-
     @ManyToOne
     @JoinColumn(name = "match_id", nullable = false)
     private Match match;
@@ -34,5 +28,22 @@ public class HeroPick {
     @JoinColumn(name = "hero_id", nullable = false)
     private Hero hero;
 
+    public HeroPick(){}
 
+    public HeroPick(Long id, Integer playerSlot, Boolean isRadiant, Integer rankTier, Match match, Hero hero) {
+        this.id = id;
+        this.playerSlot = playerSlot;
+        this.isRadiant = isRadiant;
+        this.rankTier = rankTier;
+        this.match = match;
+        this.hero = hero;
+    }
+
+    public HeroPick(Integer playerSlot, Boolean isRadiant, Integer rankTier, Match match, Hero hero) {
+        this.playerSlot = playerSlot;
+        this.isRadiant = isRadiant;
+        this.rankTier = rankTier;
+        this.match = match;
+        this.hero = hero;
+    }
 }

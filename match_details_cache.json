@@ -1,0 +1,3896 @@
+[
+  {
+    "match_id": 8378871107,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 102,
+        "rank_tier": 54,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": 54,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 74,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": 55,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 109,
+        "rank_tier": 54,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": 54,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 33,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 61,
+        "rank_tier": 55,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378866008,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 99,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 76,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 48,
+        "rank_tier": 35,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 9,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 42,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 69,
+        "rank_tier": 51,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378865107,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 123,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 83,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 109,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 72,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 82,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 13,
+        "rank_tier": 15,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 95,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": 24,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378869119,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 86,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 20,
+        "rank_tier": 74,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 111,
+        "rank_tier": 61,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 74,
+        "rank_tier": 54,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 145,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": 61,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 45,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 9,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 48,
+        "rank_tier": 45,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378866407,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 2,
+        "rank_tier": 53,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 1,
+        "rank_tier": 52,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": 51,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 52,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 84,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": 53,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 83,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": 53,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864402,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 13,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 41,
+        "rank_tier": 34,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 12,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 48,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 120,
+        "rank_tier": 34,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 129,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 1,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 106,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 10,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378865607,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 27,
+        "rank_tier": 55,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 17,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 101,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": 55,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 95,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": 55,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 13,
+        "rank_tier": 54,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863819,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 18,
+        "rank_tier": 80,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 63,
+        "rank_tier": 80,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 61,
+        "rank_tier": 80,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 105,
+        "rank_tier": 80,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": 80,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": 80,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 51,
+        "rank_tier": 80,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 145,
+        "rank_tier": 80,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 10,
+        "rank_tier": 80,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 129,
+        "rank_tier": 80,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378866801,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 84,
+        "rank_tier": 42,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 30,
+        "rank_tier": 21,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 137,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 33,
+        "rank_tier": 51,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 1,
+        "rank_tier": 43,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 29,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": 42,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 74,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863500,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 74,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 17,
+        "rank_tier": 65,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 46,
+        "rank_tier": 71,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": 64,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": 64,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 44,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": 65,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": 64,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 98,
+        "rank_tier": 62,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 37,
+        "rank_tier": 65,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378865213,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 94,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 24,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 98,
+        "rank_tier": 25,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 19,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 63,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 85,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 12,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863512,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 5,
+        "rank_tier": 64,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 44,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 93,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 97,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 52,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 137,
+        "rank_tier": 62,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 45,
+        "rank_tier": 64,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": 65,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 65,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 89,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864808,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 36,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 128,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 13,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 55,
+        "rank_tier": 41,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 71,
+        "rank_tier": 41,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": 41,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 3,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 11,
+        "rank_tier": 42,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378865101,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 26,
+        "rank_tier": 53,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 42,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 13,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 63,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 94,
+        "rank_tier": 54,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 28,
+        "rank_tier": 53,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 70,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 1,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 52,
+        "rank_tier": 54,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 121,
+        "rank_tier": 55,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863409,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 12,
+        "rank_tier": 42,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 128,
+        "rank_tier": 41,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": 51,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 93,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 71,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 74,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864117,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 85,
+        "rank_tier": 34,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 120,
+        "rank_tier": 35,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 9,
+        "rank_tier": 35,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 97,
+        "rank_tier": 35,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 45,
+        "rank_tier": 34,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": 34,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 49,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 44,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378862806,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 75,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 91,
+        "rank_tier": 44,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 48,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 22,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": 43,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 90,
+        "rank_tier": 43,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 103,
+        "rank_tier": 43,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": 44,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863718,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 36,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 11,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 63,
+        "rank_tier": 14,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 58,
+        "rank_tier": 13,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 64,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 1,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 10,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863018,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 53,
+        "rank_tier": 35,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 80,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 101,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": 35,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 42,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 87,
+        "rank_tier": 35,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 25,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 93,
+        "rank_tier": 35,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378868503,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 1,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 33,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 112,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 111,
+        "rank_tier": 15,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 11,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 88,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 81,
+        "rank_tier": 15,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378866718,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 19,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 21,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 54,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 84,
+        "rank_tier": 31,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 70,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 73,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 25,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 9,
+        "rank_tier": 41,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 12,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864703,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 42,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 86,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 25,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 113,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 109,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 87,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 61,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 105,
+        "rank_tier": 25,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 71,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378868006,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 73,
+        "rank_tier": 31,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 17,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 93,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 105,
+        "rank_tier": 24,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 25,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 38,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 70,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 123,
+        "rank_tier": 21,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 57,
+        "rank_tier": 25,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378866702,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 74,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 136,
+        "rank_tier": 80,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 91,
+        "rank_tier": 71,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": 80,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 65,
+        "rank_tier": 72,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 93,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 63,
+        "rank_tier": 80,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 20,
+        "rank_tier": 73,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 85,
+        "rank_tier": 74,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 64,
+        "rank_tier": 80,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378867316,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 74,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 20,
+        "rank_tier": 65,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 65,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 41,
+        "rank_tier": 80,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": 75,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 50,
+        "rank_tier": 74,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 97,
+        "rank_tier": 75,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 72,
+        "rank_tier": 74,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 7,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 106,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864013,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 18,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 47,
+        "rank_tier": 53,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 98,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 52,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 82,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 129,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378865415,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 114,
+        "rank_tier": 44,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 106,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 30,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 84,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": 44,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 49,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": 44,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864607,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 2,
+        "rank_tier": 35,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 87,
+        "rank_tier": 35,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": 35,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 30,
+        "rank_tier": 35,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": 35,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 18,
+        "rank_tier": 41,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": 41,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 136,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 119,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378862606,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 22,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 41,
+        "rank_tier": 51,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 97,
+        "rank_tier": 52,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": 44,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": 51,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 76,
+        "rank_tier": 51,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 11,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 74,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864310,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 93,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": 44,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 102,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 42,
+        "rank_tier": 45,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 63,
+        "rank_tier": 42,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 95,
+        "rank_tier": 51,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 69,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 126,
+        "rank_tier": 44,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 7,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864602,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 8,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 64,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 25,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 69,
+        "rank_tier": 45,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": 45,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": 45,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378867617,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 43,
+        "rank_tier": 22,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 15,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 32,
+        "rank_tier": 15,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 44,
+        "rank_tier": 22,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 30,
+        "rank_tier": 15,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 93,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 123,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 76,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 60,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378865302,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 135,
+        "rank_tier": 75,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 87,
+        "rank_tier": 74,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 63,
+        "rank_tier": 80,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 11,
+        "rank_tier": 80,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": 75,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 10,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 50,
+        "rank_tier": 80,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 102,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863603,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 119,
+        "rank_tier": 72,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 22,
+        "rank_tier": 72,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 108,
+        "rank_tier": 72,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": 72,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 1,
+        "rank_tier": 72,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 15,
+        "rank_tier": 72,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 107,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 42,
+        "rank_tier": 71,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": 72,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 11,
+        "rank_tier": 72,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378862908,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 114,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 50,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 65,
+        "rank_tier": 32,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": 25,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 54,
+        "rank_tier": 24,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 70,
+        "rank_tier": 24,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 72,
+        "rank_tier": 24,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864618,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 76,
+        "rank_tier": 54,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 138,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 16,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 52,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": 63,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 51,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864208,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 81,
+        "rank_tier": 53,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 120,
+        "rank_tier": 53,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": 54,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 59,
+        "rank_tier": 53,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 30,
+        "rank_tier": 53,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 45,
+        "rank_tier": 53,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 96,
+        "rank_tier": 53,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 54,
+        "rank_tier": 52,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": 53,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863007,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 20,
+        "rank_tier": 51,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 86,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 25,
+        "rank_tier": 52,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 136,
+        "rank_tier": 51,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 29,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": 51,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 56,
+        "rank_tier": 52,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 85,
+        "rank_tier": 52,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 54,
+        "rank_tier": 53,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 64,
+        "rank_tier": 45,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378862903,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 123,
+        "rank_tier": 33,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 129,
+        "rank_tier": 61,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 64,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 61,
+        "rank_tier": 31,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 120,
+        "rank_tier": 55,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 25,
+        "rank_tier": 53,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 30,
+        "rank_tier": 33,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378862504,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 19,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 71,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 30,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 22,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 87,
+        "rank_tier": 13,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 123,
+        "rank_tier": 21,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 94,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 96,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863701,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 18,
+        "rank_tier": 80,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": 75,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": 80,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 120,
+        "rank_tier": 80,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 131,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 101,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 111,
+        "rank_tier": 75,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 94,
+        "rank_tier": 80,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 137,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863300,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 82,
+        "rank_tier": 71,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 48,
+        "rank_tier": 72,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": 72,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 85,
+        "rank_tier": 71,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": 72,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 29,
+        "rank_tier": 72,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 72,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378866100,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 18,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 61,
+        "rank_tier": 52,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 65,
+        "rank_tier": 52,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 60,
+        "rank_tier": 43,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 13,
+        "rank_tier": 54,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 1,
+        "rank_tier": 52,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863414,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 69,
+        "rank_tier": 51,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 84,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 77,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 59,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 60,
+        "rank_tier": 44,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 93,
+        "rank_tier": 52,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 48,
+        "rank_tier": 53,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 33,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": 64,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378867403,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 91,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 21,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 108,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 48,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 119,
+        "rank_tier": 25,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 129,
+        "rank_tier": 24,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 56,
+        "rank_tier": 24,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 85,
+        "rank_tier": 24,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 54,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378870015,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 106,
+        "rank_tier": 80,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": 80,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 11,
+        "rank_tier": 80,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 112,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 34,
+        "rank_tier": 80,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 13,
+        "rank_tier": 80,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 54,
+        "rank_tier": 80,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 28,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 94,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378869519,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 1,
+        "rank_tier": 33,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 97,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 74,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 49,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 121,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 119,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 10,
+        "rank_tier": 34,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 61,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378867508,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 7,
+        "rank_tier": 55,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 69,
+        "rank_tier": 55,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 138,
+        "rank_tier": 54,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 97,
+        "rank_tier": 55,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": 55,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 85,
+        "rank_tier": 54,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": 55,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": 61,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 29,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": 55,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864314,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 102,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": 33,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": 32,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 50,
+        "rank_tier": 32,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 29,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 43,
+        "rank_tier": 32,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 20,
+        "rank_tier": 33,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 84,
+        "rank_tier": 31,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863918,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 108,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 111,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": 23,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 44,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 38,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 112,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 11,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 46,
+        "rank_tier": 23,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 14,
+        "rank_tier": 23,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863114,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 34,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 119,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 18,
+        "rank_tier": 14,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 102,
+        "rank_tier": 12,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 31,
+        "rank_tier": 15,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 84,
+        "rank_tier": 14,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 26,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863802,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 65,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 75,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 69,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 6,
+        "rank_tier": 54,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 85,
+        "rank_tier": 54,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 9,
+        "rank_tier": 54,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 109,
+        "rank_tier": 54,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 88,
+        "rank_tier": 54,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 20,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863816,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 11,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 100,
+        "rank_tier": 41,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 44,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 2,
+        "rank_tier": 35,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 35,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 114,
+        "rank_tier": 35,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 7,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 31,
+        "rank_tier": 42,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 62,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378862807,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 11,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 73,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 30,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 109,
+        "rank_tier": 24,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 105,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 1,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 100,
+        "rank_tier": 31,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378864415,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 14,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 56,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 86,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 119,
+        "rank_tier": 34,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 44,
+        "rank_tier": 33,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 41,
+        "rank_tier": 34,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 31,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 111,
+        "rank_tier": 25,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 99,
+        "rank_tier": 41,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 25,
+        "rank_tier": 32,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378862404,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 114,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 42,
+        "rank_tier": 42,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 36,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 83,
+        "rank_tier": 41,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 86,
+        "rank_tier": 43,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 54,
+        "rank_tier": 42,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 33,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 137,
+        "rank_tier": 43,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 138,
+        "rank_tier": 42,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 28,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863501,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 25,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 135,
+        "rank_tier": 25,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": 24,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 84,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 93,
+        "rank_tier": null,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 98,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 102,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 74,
+        "rank_tier": 25,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 35,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863305,
+    "radiant_win": true,
+    "players": [
+      {
+        "hero_id": 54,
+        "rank_tier": 53,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 53,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 68,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 104,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 5,
+        "rank_tier": null,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 102,
+        "rank_tier": 62,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 69,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 87,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 86,
+        "rank_tier": 52,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 39,
+        "rank_tier": 54,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  },
+  {
+    "match_id": 8378863002,
+    "radiant_win": false,
+    "players": [
+      {
+        "hero_id": 47,
+        "rank_tier": null,
+        "player_slot": 0,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 31,
+        "rank_tier": null,
+        "player_slot": 1,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 67,
+        "rank_tier": null,
+        "player_slot": 2,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 60,
+        "rank_tier": null,
+        "player_slot": 3,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 86,
+        "rank_tier": 51,
+        "player_slot": 4,
+        "isRadiant": true
+      },
+      {
+        "hero_id": 8,
+        "rank_tier": 44,
+        "player_slot": 128,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 27,
+        "rank_tier": null,
+        "player_slot": 129,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 40,
+        "rank_tier": null,
+        "player_slot": 130,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 50,
+        "rank_tier": null,
+        "player_slot": 131,
+        "isRadiant": false
+      },
+      {
+        "hero_id": 120,
+        "rank_tier": null,
+        "player_slot": 132,
+        "isRadiant": false
+      }
+    ]
+  }
+]
