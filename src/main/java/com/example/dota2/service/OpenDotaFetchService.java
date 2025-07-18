@@ -17,16 +17,14 @@ import org.slf4j.LoggerFactory;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import reactor.util.retry.Retry;
 
-import java.io.File;
-import java.io.IOException;
 import java.time.Duration;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
@@ -68,7 +66,7 @@ public class OpenDotaFetchService {
         LOGGER.info("Starting application");
     }
 
-    @Scheduled(fixedRate = 120000)
+//    @Scheduled(fixedRate = 120000)
     public void schedulerFetchAndSaveMatchData(){
         if(RUN_COUNT < 30) {
             LOGGER.info("Run count : {}, continuing", RUN_COUNT);
@@ -80,6 +78,7 @@ public class OpenDotaFetchService {
         RUN_COUNT++;
     }
 
+    @Transactional
     public void fetchAndStoreHeroData() {
         List<HeroDTO> heroDTOList = fetchHeroDetails();
 
@@ -95,6 +94,7 @@ public class OpenDotaFetchService {
         LOGGER.info("Hero details are saved to Database");
     }
 
+    @Transactional
     public void fetchAndStoreRecentMatches(Integer limit) {
         LOGGER.info("Fetching public matches");
         List<PublicMatchDTO> publicMatchDTOS = fetchRecentMatches();
